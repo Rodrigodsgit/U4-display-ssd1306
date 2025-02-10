@@ -74,7 +74,11 @@ Através da extensão, use o acesso rapido e clique em "Run Project (USB)"
 
 ## 🚀 Video Demonstração
 
-<iframe width="560" height="315" src="https://youtube.com/shorts/vCkb-oRNddI?feature=share" frameborder="0" allowfullscreen></iframe>
+<video width="560" height="315" controls>
+  <source src="video.mp4" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
+</video>
+
 
 [🎥 Assista ao vídeo](https://youtube.com/shorts/vCkb-oRNddI?feature=share)
 
